@@ -1,0 +1,6 @@
+user/.env
+user/node_modules
+captain/.env
+captain/node_modules
+ride/.env
+ride/node_modules
